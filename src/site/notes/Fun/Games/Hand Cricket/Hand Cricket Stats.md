@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fun/games/hand-cricket/hand-cricket-stats/"}
+{"dg-publish":true,"permalink":"/fun/games/hand-cricket/hand-cricket-stats/","tags":["gardenEntry"]}
 ---
 
 #### Stats:-
