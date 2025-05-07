@@ -9,9 +9,14 @@ Wickets Taken - 0.
 Total Runs Scored - 111.
 Total Wickets Taken - 0.
 ##### 1) 18/03/2025:-
-Runs Scored - 36, 30, 13, 14, 17.
-Wickets Taken - 0.
+Runs Scored - 17, 14, 27, 21, 16, 3, 12.
+Wickets Taken - 1.
 Total Runs Scored - 110.
+Total Wickets Taken - 1.
+#### 3) 23/03/2025:-
+Runs Scored - 26, 60, 6, 19.
+Wickets Taken - 0.
+Total Runs Scored - 111.
 Total Wickets Taken - 0.
 ##### 1) 24/03/2025:-
 Runs Scored - 39, 15, 32.
