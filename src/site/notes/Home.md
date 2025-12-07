@@ -6,4 +6,4 @@
 
 ## Hand Cricket:-
 
-#### [[Fun/Games/Hand Cricket/Hand Cricket Stats\|Hand Cricket Stats]].
+#### [[Learning/Fun/Games/Hand Cricket/Hand Cricket Stats\|Hand Cricket Stats]].
