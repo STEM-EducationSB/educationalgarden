@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/learning/subjects/languages/french/anglo-french-poem/"}
 ---
 
-
 # **Whispers of the Dawn / Murmures de l’Aube**
 
 In the morning light, je marche seul,  
