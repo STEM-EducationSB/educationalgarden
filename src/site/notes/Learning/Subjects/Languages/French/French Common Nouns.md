@@ -963,7 +963,7 @@
 
 ---
 
-# **Category 10: Household Items (451–500)**
+### **Category 10: Household Items (451–500)**
 
 451. **la chaise** – “lah shez” – /la ʃɛz/ – the chair
     
