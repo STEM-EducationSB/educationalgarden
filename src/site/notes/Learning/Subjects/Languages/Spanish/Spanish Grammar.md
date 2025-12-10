@@ -24,10 +24,10 @@ Articles agree with the noun.
 
 ### **Definite (the)**
 
-|Gender|Singular|Plural|
-|---|---|---|
-|Masculine|el|los|
-|Feminine|la|las|
+| Gender    | Singular | Plural |
+| --------- | -------- | ------ |
+| Masculine | el       | los    |
+| Feminine  | la       | las    |
 
 Examples:
 
