@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/learning/subjects/languages/norwegian/basic-grammer/"}
 ---
 
-
 # **NORWEGIAN (BOKMÅL) GRAMMAR — FULL TUTORIAL**
 
 Norwegian grammar is surprisingly friendly: fewer verb forms, predictable rules, and a clean sentence structure. If you already know English, you’ll adapt fast.
