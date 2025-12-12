@@ -162,3 +162,7 @@ These burn the alphabet into your mind quickly.
     
 
 Read them with IPA if you want deeper reinforcement.
+
+## 6. YouTube Tutorial
+
+![](https://youtu.be/olQh39MoJsQ?si=eQAAbOoE8RtcrNLX)
