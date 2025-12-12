@@ -100,19 +100,19 @@ Say this line 3 times and the “false friend” idea sticks permanently.
 
 ## **3. Letters that are fully new (Just memorize shape + keyword)**
 
-|Letter|Shape Memory Trick|
-|---|---|
-|Ж|Looks like an insect|
-|Ч|Looks like a chair|
-|Щ|Looks like “W” with tail|
-|Ц|Looks like “U” with tail|
-|Ю|Looks like “IO”|
-|Я|Looks like reversed R|
-|Б|Looks like “6”|
-|Д|Triangle on legs|
-|Л|Roof with legs|
-|Г|Looks like Γ|
-|Й|И with hat|
+| Letter | Shape Memory Trick       |
+| ------ | ------------------------ |
+| Ж      | Looks like an insect     |
+| Ч      | Looks like a chair       |
+| Щ      | Looks like “W” with tail |
+| Ц      | Looks like “U” with tail |
+| Ю      | Looks like “IO”          |
+| Я      | Looks like reversed R    |
+| Б      | Looks like “6”           |
+| Д      | Triangle on legs         |
+| Л      | Roof with legs           |
+| Г      | Looks like Γ             |
+| Й      | И with hat               |
 
 ---
 
