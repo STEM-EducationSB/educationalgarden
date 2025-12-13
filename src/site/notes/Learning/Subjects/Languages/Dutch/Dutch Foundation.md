@@ -2,162 +2,179 @@
 {"dg-publish":true,"permalink":"/learning/subjects/languages/dutch/dutch-foundation/"}
 ---
 
-## 1. **German Alphabet & Pronunciation**
+## **1. Dutch Alphabet & Pronunciation**
 
-German has **26 letters like English**, plus 4 special characters:
+Dutch uses the Latin alphabet (same as English) with **26 letters**, plus combinations like **ij** and diacritics like **é, è, ë**.
 
-- **Umlauts**: ä, ö, ü
-    
-- **Eszett**: ß (sounds like double "s")
-    
+**Vowels & Sounds:**
 
-**Key pronunciation rules**:
-
-|Letter/Combination|Pronunciation Example|
-|---|---|
-|a|"ah" as in _Mann_|
-|e|"eh" as in _Bett_|
-|i|"ee" as in _Kind_|
-|o|"oh" as in _Sohn_|
-|u|"oo" as in _Hund_|
-|ä|"eh" as in _Mädchen_|
-|ö|"ur" as in _schön_ (like 'sir' in UK English)|
-|ü|like French "u" in _tu_|
-|w|"v" as in _Wasser_|
-|v|"f" as in _Vater_|
-|s|"z" at start, "s" otherwise (_Sohn_, _was_)|
-|sch|"sh" as in _Schule_|
-|ch|guttural, like _Bach_ or soft as _ich_|
-|ß|double "s", e.g., _Straße_|
-
----
-
-## 2. **Basic Greetings & Phrases**
-
-|German|English|
-|---|---|
-|Hallo|Hello|
-|Guten Morgen|Good morning|
-|Guten Tag|Good day|
-|Guten Abend|Good evening|
-|Gute Nacht|Good night|
-|Wie geht’s?|How are you?|
-|Mir geht’s gut|I’m fine|
-|Tschüss|Bye|
-|Auf Wiedersehen|Goodbye (formal)|
-
----
-
-## 3. **Personal Pronouns**
-
-|German|English|
-|---|---|
-|ich|I|
-|du|you (informal)|
-|er|he|
-|sie|she|
-|es|it|
-|wir|we|
-|ihr|you all (informal)|
-|sie|they|
-|Sie|you (formal)|
-
-**Note**: "Sie" (formal you) is always capitalized.
-
----
-
-## 4. **Basic Verb: “sein” (to be)**
-
-|Pronoun|Verb Form|Example|
+|Letter|Pronunciation Guide|Example|
 |---|---|---|
-|ich|bin|Ich bin Shatadru. (I am Shatadru)|
-|du|bist|Du bist nett. (You are nice)|
-|er/sie/es|ist|Er ist müde. (He is tired)|
-|wir|sind|Wir sind Freunde. (We are friends)|
-|ihr|seid|Ihr seid Schüler. (You all are students)|
-|sie/Sie|sind|Sie sind Lehrer. (They/You are teachers)|
+|a|/ɑ/ like “a” in _father_|man|
+|e|/ɛ/ or /ə/ like “e” in _bed_|bed|
+|i|/i/ like “ee” in _see_|kind|
+|o|/o/ like “o” in _more_|klok|
+|u|/y/ like French _u_|muur|
+|aa|/aː/ long a|maan|
+|ee|/eː/ long e|geel|
+|ie|/iː/ long i|die|
+|oo|/oː/ long o|boot|
+|uu|/yː/ long u|buurt|
+|ij|/ɛi/ like “ay” in _say_|tijd|
+
+**Consonants:** mostly similar to English.
+
+- **g** = /ɣ/ (throaty sound, like in Scottish _loch_)
+    
+- **j** = /j/ like English “y” in _yes_
+    
+- **sch** = /sx/ (harsher, guttural)
+    
 
 ---
 
-## 5. **Basic Verb: “haben” (to have)**
+## **2. Basic Dutch Pronouns**
 
-|Pronoun|Verb Form|Example|
+|Person|Singular|Plural|
 |---|---|---|
-|ich|habe|Ich habe ein Buch. (I have a book)|
-|du|hast|Du hast einen Stift. (You have a pen)|
-|er/sie/es|hat|Sie hat eine Katze. (She has a cat)|
-|wir|haben|Wir haben Zeit. (We have time)|
-|ihr|habt|Ihr habt Hunger. (You all are hungry)|
-|sie/Sie|haben|Sie haben Glück. (They have luck/You have luck)|
+|1st person|ik|wij/we|
+|2nd person|jij/je|jullie|
+|3rd person|hij|zij/ze|
+||zij/ze||
+|Formal 2nd|u|u|
+
+**Tip:** “jij” is informal, “u” is formal.
 
 ---
 
-## 6. **Basic Sentence Structure**
+## **3. Key Verbs (Infinitive Form)**
 
-- German sentences usually follow **SVO** (Subject-Verb-Object), but **verb often comes second** in main clauses.  
-    Example:
-    
-- **Ich esse einen Apfel.** (I eat an apple.)
-    
-- **Heute esse ich einen Apfel.** (Today, I eat an apple.) → notice the verb moves to second position.
-    
+Dutch verbs end in **-en** (like German).
 
-**Important**: In **questions**, the verb comes first:
+**Common verbs:**
 
-- **Hast du Hunger?** (Are you hungry?)
-    
+|Infinitive|Meaning|Example|
+|---|---|---|
+|zijn|to be|Ik ben moe. – I am tired.|
+|hebben|to have|Wij hebben een kat. – We have a cat.|
+|gaan|to go|Hij gaat naar school. – He goes to school.|
+|doen|to do|Wat doe je? – What are you doing?|
+|zeggen|to say|Zij zegt hallo. – She says hello.|
 
 ---
 
-## 7. **Numbers 0–20**
+## **4. Present Tense Conjugation (Regular Verbs)**
 
-|Number|German|
+Take the verb **werken** (to work):
+
+|Pronoun|Conjugation|
 |---|---|
-|0|null|
-|1|eins|
-|2|zwei|
-|3|drei|
-|4|vier|
-|5|fünf|
-|6|sechs|
-|7|sieben|
-|8|acht|
-|9|neun|
-|10|zehn|
-|11|elf|
-|12|zwölf|
-|13|dreizehn|
-|14|vierzehn|
-|15|fünfzehn|
-|16|sechzehn|
-|17|siebzehn|
-|18|achtzehn|
-|19|neunzehn|
-|20|zwanzig|
+|ik|werk|
+|jij/je|werkt|
+|hij/zij|werkt|
+|wij/we|werken|
+|jullie|werken|
+|zij/ze|werken|
+|u|werkt|
 
----
+**Rule:** For most regular verbs:
 
-## 8. **Essential Vocabulary Categories**
-
-- **Family**: Mutter (mother), Vater (father), Bruder (brother), Schwester (sister)
+- Remove **-en**, add **-t** for 2nd/3rd person singular.
     
-- **Colors**: rot (red), blau (blue), grün (green), schwarz (black), weiß (white)
-    
-- **Days**: Montag (Mon), Dienstag (Tue), Mittwoch (Wed), Donnerstag (Thu), Freitag (Fri), Samstag (Sat), Sonntag (Sun)
-    
-- **Months**: Januar, Februar, März, April, Mai, Juni, Juli, August, September, Oktober, November, Dezember
+- Plural = stem + **en**.
     
 
 ---
 
-## 9. **Quick Tips for Learning**
+## **5. Basic Sentence Structure**
 
-1. **Listen & Repeat**: Watch German YouTube channels, movies, or songs.
+Dutch sentence structure is **SVO** (like English) for main clauses, but **verb goes last in subordinate clauses**.
+
+**Main clause:**
+
+- Ik eet een appel. – I eat an apple.
     
-2. **Speak Daily**: Even short sentences like _Ich bin Shatadru._
+
+**Subordinate clause:**
+
+- Ik denk dat hij een appel eet. – I think that he eats an apple.
     
-3. **Flashcards**: For vocabulary, numbers, and verbs.
+
+---
+
+## **6. Useful Everyday Vocabulary**
+
+**Greetings & Basics:**
+
+- Hallo – Hello
     
-4. **Grammar Focus**: Learn articles (der, die, das) early—they matter for gender and sentence structure.
+- Dag – Bye
     
-5. **Practice Reading**: Start with children’s books—they’re simple and repetitive.
+- Goedemorgen – Good morning
+    
+- Goedenavond – Good evening
+    
+- Hoe gaat het? – How are you?
+    
+- Dank je / Dank u – Thank you
+    
+
+**Numbers 1–10:**
+
+1. één
+    
+2. twee
+    
+3. drie
+    
+4. vier
+    
+5. vijf
+    
+6. zes
+    
+7. zeven
+    
+8. acht
+    
+9. negen
+    
+10. tien
+    
+
+**Common Questions:**
+
+- Wat? – What?
+    
+- Wie? – Who?
+    
+- Waar? – Where?
+    
+- Wanneer? – When?
+    
+- Waarom? – Why?
+    
+- Hoe? – How?
+    
+
+---
+
+## **7. Basic Grammar Notes**
+
+1. **Nouns & Articles**
+    
+    - “de” = common gender (de man, de vrouw)
+        
+    - “het” = neuter (het huis, het kind)
+        
+2. **Plurals**: usually add **-en** or **-s**
+    
+    - man → mannen
+        
+    - auto → auto’s
+        
+3. **Adjectives**: placed before the noun
+    
+    - een groot huis – a big house
+        
+    - de mooie kat – the beautiful cat
