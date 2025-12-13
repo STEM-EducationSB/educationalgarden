@@ -72,9 +72,11 @@ A, E, K, M, O, T — same sound
 Plus:  
 С = S  
 Р = R  
-Н = N
+Н = N   
+B = V  
+Y = U  
 
-You already know **9 letters instantly**.
+You already know **11 letters instantly**.
 
 ---
 

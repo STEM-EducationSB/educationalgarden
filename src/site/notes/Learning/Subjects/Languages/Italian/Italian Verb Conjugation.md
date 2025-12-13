@@ -333,6 +333,56 @@ Memorize **patterns**, apply live.
 
 ---
 
+# IRREGULARS
+
+### 1. For "essere"
+
+1. **Essere** is the infinitive “to be.”
+    
+2. In Italian, verbs are **not conjugated by just chopping letters and adding “i”**. Each tense has its own endings.
+    
+3. For the **present tense**, the conjugation of _essere_ is:
+    
+
+|Pronoun|Verb Form|
+|---|---|
+|Io|sono|
+|Tu|sei|
+|Lui/Lei|è|
+|Noi|siamo|
+|Voi|siete|
+|Loro|sono|
+
+So for **“you are”**, it’s **tu sei**, not _tu essi_.
+
+- “Essi” in Italian is actually an **old pronoun** meaning “they” (like “essi parlano” = “they speak”). It’s not a verb form.
+    
+
+The key is: **Italian verbs must be memorized per tense and pronoun**, especially irregular verbs like _essere_.
+
+### 1. For "avere"
+
+|Pronoun|Verb Form|Meaning|
+|---|---|---|
+|Io|ho|I have|
+|Tu|hai|You have|
+|Lui/Lei|ha|He/She has|
+|Noi|abbiamo|We have|
+|Voi|avete|You (plural) have|
+|Loro|hanno|They have|
+
+Notes:
+
+- “Ho” and “hai” look nothing like _avere_, so you just have to **memorize them**.
+    
+- “Ha” is pronounced /a/ like “ah.”
+    
+- “Abbiamo” and “avete” follow a bit of the regular pattern, but the initial _a-_ comes from the verb stem.
+    
+- “Hanno” has a double _n_, important in spelling.
+
+---
+
 # YOUTUBE TUTORIAL
 
 ![](https://youtu.be/IU5phP2iadw?si=cbCeLZ3WVsVg5zG-)
