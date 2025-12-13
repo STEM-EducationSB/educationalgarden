@@ -67,15 +67,15 @@ Dutch verbs end in **-en** (like German).
 
 Take the verb **werken** (to work):
 
-|Pronoun|Conjugation|
-|---|---|
-|ik|werk|
-|jij/je|werkt|
-|hij/zij|werkt|
-|wij/we|werken|
-|jullie|werken|
-|zij/ze|werken|
-|u|werkt|
+| Pronoun | Conjugation |
+| ------- | ----------- |
+| ik      | werk        |
+| jij/je  | werkt       |
+| hij/zij | werkt       |
+| wij/we  | werken      |
+| jullie  | werken      |
+| zij/ze  | werken      |
+| u       | werkt       |
 
 **Rule:** For most regular verbs:
 
