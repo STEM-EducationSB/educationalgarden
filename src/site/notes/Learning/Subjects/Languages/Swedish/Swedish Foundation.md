@@ -109,16 +109,16 @@ Plural endings vary, but patterns exist:
 
 ## 7. Pronouns
 
-|English|Swedish|
-|---|---|
-|I|jag|
-|you (sing.)|du|
-|he|han|
-|she|hon|
-|it (common)|den|
-|it (neuter)|det|
-|we|vi|
-|they|de _(spoken: “dom”)_|
+| English     | Swedish              |
+| ----------- | -------------------- |
+| I           | jag                  |
+| you (sing.) | du                   |
+| he          | han                  |
+| she         | hon                  |
+| it (common) | den                  |
+| it (neuter) | det                  |
+| we          | vi                   |
+| they        | de _(spoken: “dom”)_ |
 
 ---
 
