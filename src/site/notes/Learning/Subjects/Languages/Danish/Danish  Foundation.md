@@ -106,16 +106,16 @@ Definite plural:
 
 ## 7. Pronouns (Basic)
 
-|English|Danish|
-|---|---|
-|I|jeg|
-|you (singular)|du|
-|he|han|
-|she|hun|
-|it|den / det|
-|we|vi|
-|you (plural)|I|
-|they|de|
+| English        | Danish    |
+| -------------- | --------- |
+| I              | jeg       |
+| you (singular) | du        |
+| he             | han       |
+| she            | hun       |
+| it             | den / det |
+| we             | vi        |
+| you (plural)   | I         |
+| they           | de        |
 
 Formal _De_ exists but is rarely used today.
 
