@@ -73,15 +73,15 @@ Plural forms are **not predictable**—must be memorized.
 
 ## 5. Personal Pronouns
 
-|Person|Pronoun|
-|---|---|
-|I|eu|
-|you (sg)|tu|
-|he|el|
-|she|ea|
-|we|noi|
-|you (pl)|voi|
-|they|ei / ele|
+| Person   | Pronoun  |
+| -------- | -------- |
+| I        | eu       |
+| you (sg) | tu       |
+| he       | el       |
+| she      | ea       |
+| we       | noi      |
+| you (pl) | voi      |
+| they     | ei / ele |
 
 Romanian is **pro-drop**: pronouns are often omitted.
 
