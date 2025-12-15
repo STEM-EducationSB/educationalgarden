@@ -48,14 +48,14 @@ No conceptual difficulty—just muscle memory.
 
 ### B. Vocabulary Overlap (Your Biggest Advantage)
 
-|Urdu|Persian|Arabic|Meaning|
-|---|---|---|---|
-|محبت|محبت|محبة|Love|
-|دنیا|دنیا|دنيا|World|
-|زندگی|زندگی|—|Life|
-|وقت|وقت|وقت|Time|
-|انسان|انسان|إنسان|Human|
-|عقل|عقل|عقل|Intellect|
+| Urdu  | Persian | Arabic | Meaning   |
+| ----- | ------- | ------ | --------- |
+| محبت  | محبت    | محبة   | Love      |
+| دنیا  | دنیا    | دنيا   | World     |
+| زندگی | زندگی   | —      | Life      |
+| وقت   | وقت     | وقت    | Time      |
+| انسان | انسان   | إنسان  | Human     |
+| عقل   | عقل     | عقل    | Intellect |
 
 **Reality check:**  
 You will recognize **40–60% of formal Urdu immediately**.
