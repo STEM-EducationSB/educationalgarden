@@ -114,14 +114,14 @@ The document focuses on both written and spoken uses, distinguishing formal writ
 
 **Present stem:** fin‑
 
-|Person|Ending|Conjugation|
-|---|--:|---|
-|je|-is|je finis|
-|tu|-is|tu finis|
-|il|-it|il finit|
-|nous|-issons|nous finissons|
-|vous|-issez|vous finissez|
-|ils|-issent|ils finissent|
+| Person |  Ending | Conjugation    |
+| ------ | ------: | -------------- |
+| je     |     -is | je finis       |
+| tu     |     -is | tu finis       |
+| il     |     -it | il finit       |
+| nous   | -issons | nous finissons |
+| vous   |  -issez | vous finissez  |
+| ils    | -issent | ils finissent  |
 
 ### 3.3 -RE verbs (vendre)
 
