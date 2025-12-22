@@ -4,7 +4,7 @@
 
 # **BRAJABULI — Full Course Tutorial**
 
-**Brajabuli** is not a spoken language with everyday speakers — it is an **artificial literary language** rooted in **Maithili** and shaped by **Bengali poetic usage**, created for devotional and lyrical poetry from the 16th century onward. [Wikipedia](https://en.wikipedia.org/wiki/Brajabuli?utm_source=chatgpt.com)
+**Brajabuli** is not a spoken language with everyday speakers — it is an **artificial literary language** rooted in **Maithili** and shaped by **Bengali poetic usage**, created for devotional and lyrical poetry from the 16th century onward. [Wikipedia](https://en.wikipedia.org/wiki/Brajabuli)
 
 ---
 
