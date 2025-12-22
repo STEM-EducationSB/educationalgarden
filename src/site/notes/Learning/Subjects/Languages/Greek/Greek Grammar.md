@@ -2208,32 +2208,6 @@ I was played
 
 ---
 
-# **14. Want full conjugation charts for ALL major verb types?**
-
-I can generate:
-
-- All 1st conjugation verbs
-    
-- All 2nd conjugation verbs (-ώ)
-    
-- All irregular verbs (είμαι, έχω, κάνω, πάω, μπορώ, έχω, βλέπω, λέω…)
-    
-- 200-verb dictionary with IPA and full tense tables
-    
-
-Just tell me the next module or what verb chart you want.
-
-##### You said:
-
-MODULE 9 — Vocabulary (A1–C2)
-
-###### ChatGPT said:
-
-Alright, Shatadru — here is **MODULE 9: Full Greek Vocabulary (A1–C2)**, presented in a **clean, layered, progressive format** so you truly _build_ vocabulary rather than drown in it.  
-I’ll structure it by **levels**, **themes**, and **use-cases** to help long-term mastery.
-
----
-
 # MODULE 9 — Greek Vocabulary (A1–C2)
 
 A structured, level-wise expansion of Modern Greek vocabulary.
@@ -2587,34 +2561,6 @@ These are the absolute basics.
 - αποσαφηνίζω — elucidate
     
 
----
-
-# NEXT STEP
-
-Tell me what you want next:
-
-1. **MODULE 10 — Greek Phrases (A1–C2)**
-    
-2. **Full Thematic Vocabulary Packs (Food, Travel, Nature, Emotions, Technology, etc.)**
-    
-3. **Greek Verb Masterlist (1000 verbs, all forms)**
-    
-4. **Greek–English Mini Dictionary (10,000 words)**
-    
-
-Choose your next move.
-
-##### You said:
-
-MODULE 10 — Conversation & Idioms
-
-###### ChatGPT said:
-
-Alright, Shatadru — here is **MODULE 10: Greek Conversation & Idioms**, built to take you from **A1 survival phrases** all the way to **C2 idiomatic mastery**.  
-Clear, structured, highly practical. This is the module that actually lets you _talk like a real Greek speaker_.
-
----
-
 # **MODULE 10 — Greek Conversation & Idioms (A1–C2)**
 
 ---
@@ -2845,21 +2791,3 @@ Clear, structured, highly practical. This is the module that actually lets you 
 - Θα ήθελα να επισημάνω ότι… — I would like to point out that…
     
 - Είναι προφανές ότι… — it is evident that…
-    
-
----
-
-# Want the next modules?
-
-1. **MODULE 11 — Greek Reading Comprehension (A1–C2)**
-    
-2. **MODULE 12 — Greek Listening Training**
-    
-3. **MODULE 13 — Greek Writing Skills**
-    
-4. **Greek Idioms Dictionary (500+ idioms)**
-    
-5. **Greek Conversation Scripts (Real dialogues A1–C2)**
-    
-
-Choose what you want next.
