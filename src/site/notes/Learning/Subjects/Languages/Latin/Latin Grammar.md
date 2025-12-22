@@ -136,14 +136,14 @@ Adjective ≠ same declension as noun, only same **form**.
 
 ## 5. Pronouns (Basic Set)
 
-|Latin|English|
-|---|---|
-|ego|I|
-|tū|you (singular)|
-|is / ea / id|he / she / it|
-|nōs|we|
-|vōs|you (plural)|
-|eī / eae / ea|they|
+| Latin         | English        |
+| ------------- | -------------- |
+| ego           | I              |
+| tū            | you (singular) |
+| is / ea / id  | he / she / it  |
+| nōs           | we             |
+| vōs           | you (plural)   |
+| eī / eae / ea | they           |
 
 Latin often **drops subject pronouns** because verb endings already tell you who is acting.
 
@@ -166,12 +166,12 @@ Each part unlocks different tenses.
 
 There are **4 conjugations**, based on the infinitive ending:
 
-|Conj|Ending|Example|
-|---|---|---|
-|1st|-āre|amāre|
-|2nd|-ēre|monēre|
-|3rd|-ere|regere|
-|4th|-īre|audīre|
+| Conj | Ending | Example |
+| ---- | ------ | ------- |
+| 1st  | -āre   | amāre   |
+| 2nd  | -ēre   | monēre  |
+| 3rd  | -ere   | regere  |
+| 4th  | -īre   | audīre  |
 
 ---
 
@@ -194,14 +194,14 @@ Example: _amāre_ (to love)
 
 Latin has **6 tenses** in the indicative:
 
-|Tense|Meaning|
-|---|---|
-|Present|amō – I love|
-|Imperfect|amābam – I was loving|
-|Future|amābō – I will love|
-|Perfect|amāvī – I loved|
-|Pluperfect|amāveram – I had loved|
-|Future Perfect|amāverō – I will have loved|
+| Tense          | Meaning                     |
+| -------------- | --------------------------- |
+| Present        | amō – I love                |
+| Imperfect      | amābam – I was loving       |
+| Future         | amābō – I will love         |
+| Perfect        | amāvī – I loved             |
+| Pluperfect     | amāveram – I had loved      |
+| Future Perfect | amāverō – I will have loved |
 
 ---
 
