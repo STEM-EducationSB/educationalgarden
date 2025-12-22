@@ -123,13 +123,13 @@ These are base actions everyone needs early on:
 
 Basic personal pronouns you use every day: [Wikipedia](https://en.wikipedia.org/wiki/Maithili_language?utm_source=chatgpt.com)
 
-|English|Maithili (Devanagari)|Rough Usage|
-|---|---|---|
-|I|**हम** _(ham)_|first person|
-|You (informal)|**तोँह** _(tõh)_|second person inform|
-|You (formal)|**अहाँ** _(ahã)_|polite|
-|He/She (near)|**ई/ए** _(ī/e)_|near third person|
-|He/She (far)|**ऊ/ओ** _(ū/o)_|distant third|
+| English        | Maithili (Devanagari) | Rough Usage          |
+| -------------- | --------------------- | -------------------- |
+| I              | **हम** _(ham)_        | first person         |
+| You (informal) | **तोँह** _(tõh)_     | second person inform |
+| You (formal)   | **अहाँ** _(ahã)_      | polite               |
+| He/She (near)  | **ई/ए** _(ī/e)_       | near third person    |
+| He/She (far)   | **ऊ/ओ** _(ū/o)_       | distant third        |
 
 ---
 
