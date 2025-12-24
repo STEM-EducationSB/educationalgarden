@@ -179,14 +179,14 @@ There are **4 conjugations**, based on the infinitive ending:
 
 Example: _amāre_ (to love)
 
-|Person|Latin|English|
-|---|---|---|
-|1s|amō|I love|
-|2s|amās|you love|
-|3s|amat|he/she loves|
-|1p|amāmus|we love|
-|2p|amātis|you (pl) love|
-|3p|amant|they love|
+| Person | Latin  | English       |
+| ------ | ------ | ------------- |
+| 1s     | amō    | I love        |
+| 2s     | amās   | you love      |
+| 3s     | amat   | he/she loves  |
+| 1p     | amāmus | we love       |
+| 2p     | amātis | you (pl) love |
+| 3p     | amant  | they love     |
 
 ---
 
@@ -243,13 +243,13 @@ But order is flexible for emphasis.
 
 ## 10. Prepositions + Cases
 
-|Preposition|Case|Meaning|
-|---|---|---|
-|in|acc|into|
-|in|abl|in|
-|ad|acc|to|
-|cum|abl|with|
-|ex|abl|out of|
+| Preposition | Case | Meaning |
+| ----------- | ---- | ------- |
+| in          | acc  | into    |
+| in          | abl  | in      |
+| ad          | acc  | to      |
+| cum         | abl  | with    |
+| ex          | abl  | out of  |
 
 ---
 
