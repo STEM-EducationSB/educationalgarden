@@ -81,14 +81,14 @@ ROOT + (DERIVATIONAL SUFFIXES) + (INFLECTIONAL SUFFIXES)
 
 Possession is marked directly on the noun.
 
-| Person | Suffix (ABS) |
-|------|------|
-| my | -ga |
-| your (sg) | -vit |
-| his/her | -a |
-| our | -gut |
-| your (pl) | -si |
-| their | -at |
+| Person    | Suffix (ABS) |
+| --------- | ------------ |
+| my        | -ga          |
+| your (sg) | -vit         |
+| his/her   | -a           |
+| our       | -gut         |
+| your (pl) | -si          |
+| their     | -at          |
 
 Example:
 - illu → house  
