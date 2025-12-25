@@ -199,31 +199,6 @@ This list is optimized for **learning + memorization**, not poetic overreach.
 
 ---
 
-## 5. Time, Society, Tools (81–200)
-
-To keep this response readable, I will **continue Categories 5–10 (Time, Food, Travel, Society, Tools, Abstract Concepts)** in the **next message**, completing all **200 nouns without shortcuts**.
-
-If you want:
-
-- **Audio-style pronunciation**
-    
-- **Root + suffix breakdown (very important in Greenlandic)**
-    
-- **Beginner sentences using these nouns**
-    
-- **A spoken-classical vs modern comparison**
-    
-
-Say the word.
-
-Yes
-
-Good. Then we continue **properly and completely**, without watering it down.
-
-Below is the **continuation from item 81 onward**, maintaining **the same exact format** and academic discipline. This will take us **all the way to 200 nouns**, cleanly categorized.
-
----
-
 ## 5. Time & Measurement (81–100)
 
 81. ulloq – “ool-loq” – /ˈul.loq/ – day
