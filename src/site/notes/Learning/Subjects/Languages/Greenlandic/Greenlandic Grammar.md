@@ -104,10 +104,10 @@ Possession precedes case marking.
 Pronouns exist but verbs already encode person.
 
 | Person | Singular | Plural |
-|------|---------|--------|
-| 1st | uanga | uagut |
-| 2nd | illit | ilissi |
-| 3rd | una | uku |
+| ------ | -------- | ------ |
+| 1st    | uanga    | uagut  |
+| 2nd    | illit    | ilissi |
+| 3rd    | una      | uku    |
 
 Used mainly for emphasis or oblique cases.
 
