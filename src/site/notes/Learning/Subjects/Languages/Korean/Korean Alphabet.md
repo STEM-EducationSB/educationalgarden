@@ -37,22 +37,22 @@ Example:
 
 ### Basic Consonants (14)
 
-|Letter|Sound|Approx|
-|---|---|---|
-|ㄱ|g / k|go|
-|ㄴ|n|no|
-|ㄷ|d / t|do|
-|ㄹ|r / l|light|
-|ㅁ|m|man|
-|ㅂ|b / p|boy|
-|ㅅ|s|see|
-|ㅇ|silent / ng|sing|
-|ㅈ|j|jam|
-|ㅊ|ch|chair|
-|ㅋ|k|kite|
-|ㅌ|t|top|
-|ㅍ|p|pen|
-|ㅎ|h|hat|
+| Letter | Sound       | Approx |
+| ------ | ----------- | ------ |
+| ㄱ      | g / k       | go     |
+| ㄴ      | n           | no     |
+| ㄷ      | d / t       | do     |
+| ㄹ      | r / l       | light  |
+| ㅁ      | m           | man    |
+| ㅂ      | b / p       | boy    |
+| ㅅ      | s           | see    |
+| ㅇ      | silent / ng | sing   |
+| ㅈ      | j           | jam    |
+| ㅊ      | ch          | chair  |
+| ㅋ      | k           | kite   |
+| ㅌ      | t           | top    |
+| ㅍ      | p           | pen    |
+| ㅎ      | h           | hat    |
 
 Key note:
 
