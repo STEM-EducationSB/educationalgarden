@@ -38,16 +38,16 @@ Rule: **Every letter is pronounced. No silent letters.**
 
 ## 2. Core Pronouns (Memorize These)
 
-|English|Gothic|
-|---|---|
-|I|**ik**|
-|you (sg)|**þu**|
-|he|**is**|
-|she|**si**|
-|it|**ita**|
-|we|**weis**|
-|you (pl)|**jus**|
-|they|**eis**|
+| English  | Gothic   |
+| -------- | -------- |
+| I        | **ik**   |
+| you (sg) | **þu**   |
+| he       | **is**   |
+| she      | **si**   |
+| it       | **ita**  |
+| we       | **weis** |
+| you (pl) | **jus**  |
+| they     | **eis**  |
 
 þ = _th_ as in _thing_
 
