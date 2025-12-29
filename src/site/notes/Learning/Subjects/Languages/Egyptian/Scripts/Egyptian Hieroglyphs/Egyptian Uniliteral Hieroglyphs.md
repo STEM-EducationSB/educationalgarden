@@ -14,32 +14,32 @@
 
 ## Uniliteral Alphabet Table (Indexed)
 
-|#|Hieroglyph|Sound Value|English Approximation (How to Say It)|IPA|Literal Sign Meaning|
-|---|---|---|---|---|---|
-|1|𓄿|ꜣ|short **a / ah**, light throat stop|/ʔa/ ~ /ɑ/|Vulture|
-|2|𓂝|ꜥ|deep throat **a** (Arabic **ʿayn**)|/ʕ/|Arm|
-|3|𓇋|j|**y** as in _yes_|/j/|Reed leaf|
-|4|𓅱|w|**w**|/w/|Quail chick|
-|5|𓃀|b|**b**|/b/|Foot|
-|6|𓊪|p|**p**|/p/|Stool|
-|7|𓆑|f|**f**|/f/|Horned viper|
-|8|𓅓|m|**m**|/m/|Owl|
-|9|𓈖|n|**n**|/n/|Water ripple|
-|10|𓂋|r|rolled / tapped **r**|/r/ ~ /ɾ/|Mouth|
-|11|𓉔|h|soft **h**|/h/|Twisted wick|
-|12|𓎛|ḥ|strong breathy **h** (Arabic **ḥ**)|/ħ/|Reed shelter|
-|13|𓐍|ḫ|harsh **kh** (_loch_)|/x/|Placenta|
-|14|𓄡|ẖ|voiced **gh**|/ɣ/|Animal belly|
-|15|𓋴|s|**s**|/s/|Folded cloth|
-|16|𓈙|š|**sh**|/ʃ/|Pool|
-|17|𓊃|z|**z**|/z/|Door bolt|
-|18|𓎡|k|**k**|/k/|Basket|
-|19|𓎼|g|hard **g** (_go_)|/ɡ/|Jar stand|
-|20|𓏏|t|**t**|/t/|Bread loaf|
-|21|𓍿|ṯ|**ch** (_church_)|/t͡ʃ/|Tethering rope|
-|22|𓂧|d|**d**|/d/|Hand|
-|23|𓆓|ḏ|**j** (_judge_)|/d͡ʒ/|Cobra|
-|24|𓈎|q|deep **k** (Arabic **qāf**)|/q/|Hill slope|
+| #   | Hieroglyph | Sound Value | English Approximation (How to Say It) | IPA        | Literal Sign Meaning |
+| --- | ---------- | ----------- | ------------------------------------- | ---------- | -------------------- |
+| 1   | 𓄿         | ꜣ           | short **a / ah**, light throat stop   | /ʔa/ ~ /ɑ/ | Vulture              |
+| 2   | 𓂝         | ꜥ           | deep throat **a** (Arabic **ʿayn**)   | /ʕ/        | Arm                  |
+| 3   | 𓇋         | j           | **y** as in _yes_                     | /j/        | Reed leaf            |
+| 4   | 𓅱         | w           | **w**                                 | /w/        | Quail chick          |
+| 5   | 𓃀         | b           | **b**                                 | /b/        | Foot                 |
+| 6   | 𓊪         | p           | **p**                                 | /p/        | Stool                |
+| 7   | 𓆑         | f           | **f**                                 | /f/        | Horned viper         |
+| 8   | 𓅓         | m           | **m**                                 | /m/        | Owl                  |
+| 9   | 𓈖         | n           | **n**                                 | /n/        | Water ripple         |
+| 10  | 𓂋         | r           | rolled / tapped **r**                 | /r/ ~ /ɾ/  | Mouth                |
+| 11  | 𓉔         | h           | soft **h**                            | /h/        | Twisted wick         |
+| 12  | 𓎛         | ḥ           | strong breathy **h** (Arabic **ḥ**)   | /ħ/        | Reed shelter         |
+| 13  | 𓐍         | ḫ           | harsh **kh** (_loch_)                 | /x/        | Placenta             |
+| 14  | 𓄡         | ẖ           | voiced **gh**                         | /ɣ/        | Animal belly         |
+| 15  | 𓋴         | s           | **s**                                 | /s/        | Folded cloth         |
+| 16  | 𓈙         | š           | **sh**                                | /ʃ/        | Pool                 |
+| 17  | 𓊃         | z           | **z**                                 | /z/        | Door bolt            |
+| 18  | 𓎡         | k           | **k**                                 | /k/        | Basket               |
+| 19  | 𓎼         | g           | hard **g** (_go_)                     | /ɡ/        | Jar stand            |
+| 20  | 𓏏         | t           | **t**                                 | /t/        | Bread loaf           |
+| 21  | 𓍿         | ṯ           | **ch** (_church_)                     | /t͡ʃ/      | Tethering rope       |
+| 22  | 𓂧         | d           | **d**                                 | /d/        | Hand                 |
+| 23  | 𓆓         | ḏ           | **j** (_judge_)                       | /d͡ʒ/      | Cobra                |
+| 24  | 𓈎         | q           | deep **k** (Arabic **qāf**)           | /q/        | Hill slope           |
 
 ---
 
