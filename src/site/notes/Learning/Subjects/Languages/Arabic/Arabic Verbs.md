@@ -2,204 +2,459 @@
 {"dg-publish":true,"permalink":"/learning/subjects/languages/arabic/arabic-verbs/"}
 ---
 
-### Arabic (Levantine / Shami) – Top 100 Verbs
+# Arabic (Levantine / Shami) – Top 100 Verbs
 
-1. كتب – “katab” – /katab/ – to write
+| Category                  |   Count |
+| ------------------------- | ------: |
+| Core Auxiliary & Modal    |      25 |
+| Communication & Cognition |      30 |
+| Movement & Position       |      30 |
+| Daily Actions & Physical  |      30 |
+| Emotions & Social         |      30 |
+| Change & Process          |      25 |
+| Abstract & Advanced       |      30 |
+| **TOTAL**                 | **200** |
+
+## 1. Core Daily Actions (25)
+
+1. كتب – katab” – /katab/ – to write
+
+2. أكل – akal – to eat
     
-2. قرأ – “’ara” – /qaraʔ/ – to read
+3. شرب – shirib – to drink
     
-3. ذهب – “zahab” – /zahab/ – to go
+4. نام – nam – to sleep
     
-4. جاء – “ja’” – /ʤaʔ/ – to come
+5. صحِي – ṣiḥi – to wake up
     
-5. أكل – “akal” – /ʔakal/ – to eat
+6. جلس – jalas – to sit
     
-6. شرب – “shirib” – /ʃarib/ – to drink
+7. قام – qam – to stand
     
-7. جلس – “jalas” – /ʤalas/ – to sit
+8. مشي – mashā – to walk
     
-8. قام – “qam” – /qam/ – to stand/get up
+9. ركض – rakad – to run
     
-9. نام – “nam” – /nam/ – to sleep
+10. دخل – dakhala – to enter
     
-10. استيقظ – “istayqaz” – /istaːjqaz/ – to wake up
+11. خرج – kharaj – to exit
     
-11. عمل – “’amal” – /ʔamal/ – to work
+12. فتح – fataḥ – to open
     
-12. درس – “daras” – /daras/ – to study
+13. سكّر – sakkar – to close
     
-13. لعب – “la’ab” – /laʕab/ – to play
+14. لبس – libis – to wear
     
-14. فهم – “fahim” – /fahim/ – to understand
+15. خلع – khala‘ – to remove (clothes)
     
-15. عرف – “’araf” – /ʔaraf/ – to know
+16. غسل – ghasal – to wash
     
-16. شاهد – “shahad” – /ʃaːhad/ – to watch
+17. نظّف – naẓẓaf – to clean
     
-17. سمع – “sami’a” – /samiʕa/ – to hear
+18. طبخ – ṭabakh – to cook
     
-18. قال – “qal” – /qal/ – to say
+19. أعدّ – a‘add – to prepare
     
-19. تكلم – “takallam” – /takallam/ – to speak
+20. أكل برّا – akal barra – to eat outside
     
-20. كتب – “katab” – /katab/ – to write
+21. شبع – shibi‘ – to be full
     
-21. قرر – “qarrar” – /qarrar/ – to decide
+22. عطش – ‘aṭish – to be thirsty
     
-22. فتح – “fataḥ” – /fataħ/ – to open
+23. جاع – jā‘ – to be hungry
     
-23. غلق – “ghalaq” – /ɣalaq/ – to close
+24. تعب – ta‘ib – to get tired
     
-24. حمل – “hamal” – /hamal/ – to carry
+25. استراح – istarāḥ – to rest
     
-25. أخذ – “’akhadh” – /ʔaχað/ – to take
+26. استحمّ – istaḥamm – to bathe
     
-26. أعطى – “a‘ṭa” – /ʔaʕṭa/ – to give
+
+---
+
+## 2. Movement & Travel (20)
+
+26. ذهب – zahab – to go
     
-27. بدأ – “bada’a” – /badaʔa/ – to start
+27. جاء – jā’ – to come
     
-28. انتهى – “intaha” – /intaːha/ – to finish
+28. وصل – waṣal – to arrive
     
-29. سافر – “safar” – /safar/ – to travel
+29. غادر – ghādar – to leave
     
-30. عاد – “’aad” – /ʔaːd/ – to return
+30. رجع – raja‘ – to return
     
-31. دخل – “dakhala” – /daxala/ – to enter
+31. سافر – sāfar – to travel
     
-32. خرج – “kharaja” – /xaraʤa/ – to leave
+32. ركب – rakib – to ride
     
-33. غسل – “ghasal” – /ɣasal/ – to wash
+33. نزل – nazal – to get off
     
-34. نظف – “naẓẓaf” – /naðːaf/ – to clean
+34. طلع – ṭala‘ – to go up
     
-35. وقع – “waqa‘a” – /waqaʕa/ – to fall
+35. نزل – nazal – to go down
     
-36. سقط – “saqaṭ” – /saqaṭ/ – to drop/fall
+36. لفّ – laff – to turn
     
-37. كسر – “kasar” – /kasar/ – to break
+37. عبر – ‘abar – to cross
     
-38. صنع – “ṣana‘” – /sˤanaʕ/ – to make
+38. وقف – waqaf – to stop
     
-39. رسم – “rasam” – /rasam/ – to draw
+39. تحرّك – taḥarrak – to move
     
-40. طبخ – “ṭabakh” – /tˤabax/ – to cook
+40. اقترب – iqtarab – to approach
     
-41. غنى – “ghanna” – /ɣanna/ – to sing
+41. ابتعد – ibta‘ad – to move away
     
-42. رقص – “raqasa” – /raqasa/ – to dance
+42. ضلّ – ḍall – to stay
     
-43. ضحك – “ḍaḥik” – /dˤaħik/ – to laugh
+43. تأخّر – ta’akhkhar – to be late
     
-44. بكى – “baka” – /baka/ – to cry
+44. استعجل – ista‘jal – to hurry
     
-45. أحب – “aḥab” – /ʔaħab/ – to love
+45. تاه – tāh – to get lost
     
-46. كره – “kariha” – /kariha/ – to hate
+
+---
+
+## 3. Communication & Speech (20)
+
+46. قال – qāl – to say
     
-47. عرف – “’araf” – /ʔaraf/ – to recognize
+47. حكى – ḥakā – to speak/tell
     
-48. تذكر – “tadhakkar” – /taðakkar/ – to remember
+48. تكلّم – takallam – to talk
     
-49. نسي – “nasi” – /nasi/ – to forget
+49. سأل – sa’al – to ask
     
-50. سأل – “sa’al” – /saʔal/ – to ask
+50. جاوب – jāwab – to answer
     
-51. أجاب – “’ajab” – /ʔadʒab/ – to answer
+51. نادى – nādā – to call
     
-52. حاول – “ḥawal” – /ħawal/ – to try
+52. أخبر – akhbar – to inform
     
-53. نجح – “najah” – /naʤah/ – to succeed
+53. شرح – sharaḥ – to explain
     
-54. فشل – “fashal” – /faʃal/ – to fail
+54. ناقش – nāqash – to discuss
     
-55. ذهب – “zahab” – /zahab/ – to go
+55. وافق – wāfaq – to agree
     
-56. وصل – “waṣal” – /waṣal/ – to arrive
+56. رفض – rafad – to refuse
     
-57. غادر – “ghadar” – /ɣadar/ – to leave
+57. وعد – wa‘ad – to promise
     
-58. وقف – “waqaf” – /waqaf/ – to stop/stand
+58. اعتذر – i‘taḏar – to apologize
     
-59. جلس – “jalas” – /jalas/ – to sit
+59. شكر – shakar – to thank
     
-60. مشى – “mashā” – /maʃaː/ – to walk
+60. اشتكى – ishtakā – to complain
     
-61. ركض – “rakad” – /rakad/ – to run
+61. طلب – ṭalab – to request
     
-62. سبح – “sabaḥ” – /sabaħ/ – to swim
+62. أعلن – a‘lan – to announce
     
-63. طار – “ṭār” – /tˤaːr/ – to fly
+63. أكّد – akkad – to confirm
     
-64. سقط – “saqaṭ” – /saqaṭ/ – to fall
+64. أنكر – ankar – to deny
     
-65. اشترى – “ishtara” – /ʔiʃtara/ – to buy
+65. نبه – nabbah – to warn
     
-66. باع – “ba’a” – /baʔa/ – to sell
+
+---
+
+## 4. Thinking, Knowing & Learning (20)
+
+66. عرف – ‘araf – to know
     
-67. دفع – “dafa‘” – /dafaʕ/ – to pay
+67. فهم – fihim – to understand
     
-68. حمل – “hamal” – /hamal/ – to carry
+68. فكّر – fakkar – to think
     
-69. أخذ – “’akhadh” – /ʔaχað/ – to take
+69. تذكّر – tadhakkar – to remember
     
-70. أعطى – “a‘ṭa” – /ʔaʕṭa/ – to give
+70. نسي – nisi – to forget
     
-71. صنع – “ṣana‘” – /sˤanaʕ/ – to make/do
+71. تعلّم – ta‘allam – to learn
     
-72. استخدم – “istakhdam” – /istaxdam/ – to use
+72. درَس – daras – to study
     
-73. بحث – “baḥath” – /baħaθ/ – to search/look for
+73. علّم – ‘allam – to teach
     
-74. وجد – “wajada” – /wajada/ – to find
+74. قرأ – qara’ – to read
     
-75. ضاع – “ḍā‘a” – /dˤaːʔa/ – to lose
+75. كتب – katab – to write
     
-76. ركّب – “rakkab” – /rakkab/ – to assemble/put together
+76. حسب – ḥasab – to calculate
     
-77. فتح – “fataḥ” – /fataħ/ – to open
+77. حلّل – ḥallal – to analyze
     
-78. أغلق – “aghlaq” – /aɣlaq/ – to close
+78. قرّر – qarrar – to decide
     
-79. سمع – “sami‘a” – /samiʕa/ – to hear/listen
+79. شكّ – shakk – to doubt
     
-80. شاهد – “shahad” – /ʃaːhad/ – to watch
+80. صدّق – ṣaddaq – to believe
     
-81. تكلم – “takallam” – /takallam/ – to speak/talk
+81. توقّع – tawaqqa‘ – to expect
     
-82. قال – “qal” – /qal/ – to say
+82. لاحظ – lāḥaẓ – to notice
     
-83. أخبر – “akhbar” – /axbar/ – to inform/tell
+83. انتبه – intabah – to pay attention
     
-84. سأل – “sa’al” – /saʔal/ – to ask
+84. تذكّر – tadhakkar – to recall
     
-85. أجاب – “’ajab” – /ʔadʒab/ – to answer
+85. تخيّل – takhayyal – to imagine
     
-86. فكر – “fakkar” – /fakkar/ – to think
+
+---
+
+## 5. Work, Creation & Use (20)
+
+86. عمل – ‘amal – to work
     
-87. علم – “’alim” – /ʔalim/ – to know/learn
+87. اشتغل – ishtaghil – to work (spoken)
     
-88. درس – “daras” – /daras/ – to study
+88. صنع – ṣana‘ – to make
     
-89. تعلم – “ta‘allam” – /taʕallam/ – to learn
+89. بنى – banā – to build
     
-90. فهم – “fahim” – /fahim/ – to understand
+90. أصلح – aṣlaḥ – to fix
     
-91. عرف – “’araf” – /ʔaraf/ – to recognize
+91. كسر – kasar – to break
     
-92. تذكر – “tadhakkar” – /taðakkar/ – to remember
+92. ركّب – rakkab – to assemble
     
-93. نسي – “nasi” – /nasi/ – to forget
+93. فكّ – fakk – to dismantle
     
-94. أحب – “aḥab” – /ʔaħab/ – to love
+94. استخدم – istakhdam – to use
     
-95. كره – “kariha” – /kariha/ – to hate
+95. شغّل – shaghghal – to turn on
     
-96. ضحك – “ḍaḥik” – /dˤaħik/ – to laugh
+96. طفى – ṭaffa – to turn off
     
-97. بكى – “baka” – /baka/ – to cry
+97. جرّب – jarrab – to try
     
-98. دعا – “da‘ā” – /daʕaː/ – to call/pray
+98. خطّط – khaṭṭaṭ – to plan
     
-99. صلى – “ṣallā” – /sˤallaː/ – to pray (Islamic)
+99. نفّذ – naffaḏ – to execute
     
-100. أحب – “aḥab” – /ʔaħab/ – to like/love
+100. أدار – adār – to manage
+    
+101. راقب – rāqab – to monitor
+    
+102. قاس – qās – to measure
+    
+103. صمّم – ṣammam – to design
+    
+104. طوّر – ṭawwar – to develop
+    
+105. أنهى – anhā – to finish
+    
+
+---
+
+## 6. Social & Emotional Actions (25)
+
+106. أحب – aḥabb – to love
+    
+107. كره – karih – to hate
+    
+108. فرح – fariḥ – to be happy
+    
+109. زعل – za‘al – to be upset
+    
+110. ضحك – ḍiḥik – to laugh
+    
+111. بكى – baka – to cry
+    
+112. خاف – khāf – to fear
+    
+113. ارتاح – irtāḥ – to feel relieved
+    
+114. اشتاق – ishtāq – to miss
+    
+115. غار – ghār – to be jealous
+    
+116. احترم – iḥtaram – to respect
+    
+117. أهمل – ahmal – to neglect
+    
+118. اهتم – ihtamm – to care
+    
+119. سامح – sāmaḥ – to forgive
+    
+120. أزعج – az‘aj – to annoy
+    
+121. دعم – da‘am – to support
+    
+122. شجّع – shajja‘ – to encourage
+    
+123. تزوّج – tazawwaj – to marry
+    
+124. طلّق – ṭallaq – to divorce
+    
+125. تصالح – taṣālaḥ – to reconcile
+    
+126. وثق – wathiq – to trust
+    
+127. خان – khān – to betray
+    
+128. حزن – ḥazin – to be sad
+    
+129. اندهش – indahash – to be surprised
+    
+130. افتخر – iftakhar – to be proud
+    
+
+---
+
+## 7. Religion, Formal & Abstract (15)
+
+131. دعا – da‘ā – to pray/call
+    
+132. صلّى – ṣallā – to pray
+    
+133. صام – ṣām – to fast
+    
+134. عبد – ‘abad – to worship
+    
+135. آمن – āman – to believe
+    
+136. بارك – bārak – to bless
+    
+137. حرّم – ḥarram – to forbid
+    
+138. سمح – samaḥ – to allow
+    
+139. حكم – ḥakam – to judge
+    
+140. التزم – iltazam – to commit
+    
+141. خالف – khālaf – to disobey
+    
+142. نذر – naḏar – to vow
+    
+143. استغفر – istaghfar – to seek forgiveness
+    
+144. تاب – tāb – to repent
+    
+145. احتفل – iḥtafal – to celebrate
+    
+
+---
+
+## 8. Commerce & Exchange (15)
+
+146. اشترى – ishtarā – to buy
+    
+147. باع – bā‘ – to sell
+    
+148. دفع – dafa‘ – to pay
+    
+149. قبض – qabad – to receive
+    
+150. ربح – ribiḥ – to profit
+    
+151. خسر – khisir – to lose
+    
+152. ساوم – sāwam – to bargain
+    
+153. حجز – ḥajaz – to reserve
+    
+154. استثمر – istathmar – to invest
+    
+155. اقترض – iqtarad – to borrow
+    
+156. أقرض – aqrada – to lend
+    
+157. وقّع – waqqa‘ – to sign
+    
+158. لغى – laghā – to cancel
+    
+159. وافق – wāfaq – to approve
+    
+160. رفض – rafad – to reject
+    
+
+---
+
+## 9. Nature, Physical States & Misc (40)
+
+161. طار – ṭār – to fly
+    
+162. سقط – saqaṭ – to fall
+    
+163. غرق – ghariq – to drown
+    
+164. نجا – najā – to survive
+    
+165. احترق – iḥtaraq – to burn
+    
+166. ذاب – dhāb – to melt
+    
+167. تجمّد – tajammad – to freeze
+    
+168. انفجر – infajar – to explode
+    
+169. تغيّر – taghayyar – to change
+    
+170. بدأ – bada’ – to begin
+    
+171. انتهى – intahā – to end
+    
+172. زاد – zād – to increase
+    
+173. نقص – naqṣ – to decrease
+    
+174. امتلأ – imtala’ – to fill
+    
+175. فرغ – faragh – to empty
+    
+176. ارتفع – irtafa‘ – to rise
+    
+177. انخفض – inkhafaḍ – to fall (level)
+    
+178. استمر – istamarr – to continue
+    
+179. توقّف – tawaqqaf – to stop
+    
+180. ظهر – ẓahar – to appear
+    
+181. اختفى – ikhtafā – to disappear
+    
+182. تحسّن – taḥassan – to improve
+    
+183. ساء – sā’a – to worsen
+    
+184. تأثّر – ta’aththar – to be affected
+    
+185. سبّب – sabbab – to cause
+    
+186. منع – mana‘ – to prevent
+    
+187. سمح – samaḥ – to permit
+    
+188. اقتنع – iqtaṇa‘ – to be convinced
+    
+189. أجبر – ajbar – to force
+    
+190. اختار – ikhtār – to choose
+    
+191. فضّل – faḍḍal – to prefer
+    
+192. تجاهل – tajāhal – to ignore
+    
+193. ركّز – rakkaz – to focus
+    
+194. حاول – ḥāwal – to attempt
+    
+195. نجح – najaḥ – to succeed
+    
+196. فشل – fashal – to fail
+    
+197. ضاع – ḍā‘ – to be lost
+    
+198. وجد – wajad – to find
+    
+199. امتلك – imtalak – to own
+    
+200. فقد – faqad – to lose
