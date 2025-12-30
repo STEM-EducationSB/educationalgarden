@@ -15,16 +15,16 @@
 
 **PAST STEM (katab-) + SUFFIX**
 
-|Person (EN)|Person (AR)|Form|Transliteration|What Ending To Add With STEM|
-|---|---|---|---|---|
-|I|أنا (ana)|كتبت|katabt|ـت (-t)|
-|You (m)|إنتَ (enta)|كتبت|katabt|ـت (-t)|
-|You (f)|إنتِ (enti)|كتبتي|katabti|ـتي (-ti)|
-|He|هو (huwwé)|كتب|katab|∅ (no ending)|
-|She|هي (hiyye)|كتبت|katabet|ـت (-et)|
-|We|نحنا (naḥna)|كتبنا|katabna|ـنا (-na)|
-|You (pl)|إنتو (ento)|كتبتوا|katabtu|ـتو (-tu)|
-|They|هنن (hennen)|كتبوا|katabu|ـوا (-u)|
+| Person (EN) | Person (AR)  | Form   | Transliteration | What Ending To Add With STEM |
+| ----------- | ------------ | ------ | --------------- | ---------------------------- |
+| I           | أنا (ana)    | كتبت   | katabt          | ـت (-t)                      |
+| You (m)     | إنتَ (enta)  | كتبت   | katabt          | ـت (-t)                      |
+| You (f)     | إنتِ (enti)  | كتبتي  | katabti         | ـتي (-ti)                    |
+| He          | هو (huwwé)   | كتب    | katab           | ∅ (no ending)                |
+| She         | هي (hiyye)   | كتبت   | katabet         | ـت (-et)                     |
+| We          | نحنا (naḥna) | كتبنا  | katabna         | ـنا (-na)                    |
+| You (pl)    | إنتو (ento)  | كتبتوا | katabtu         | ـتو (-tu)                    |
+| They        | هنن (hennen) | كتبوا  | katabu          | ـوا (-u)                     |
 
 ## Example
 
