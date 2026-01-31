@@ -1249,28 +1249,28 @@
 909. 封 – fēng – feng – /fɤŋ˥/ – seal; confer (title)
 910. 尺 – chǐ – chi – /tʂʰɻ̩˨˩˦/ – ruler; measure
 911. 尤 – yóu – you – /jou˧˥/ – especially; particularly
-將 | 将 – jiāng – jiang – /tɕjɑŋ˥/ – will; shall; lead (traditional)
-尹 | 尹 – yǐn – yin – /in˨˩˦/ – govern; surname
-屏 | 屏 – píng – ping – /pʰiŋ˧˥/ – screen; repel
-屯 | 屯 – tún – tun – /tʰun˧˥/ – station troops; store
-岑 | 岑 – cén – cen – /tsʰən˧˥/ – name; hill (literary)
-岔 – chà – cha – /tʂʰa˥˩/ – fork; branch (of road)
-岩 | 岩 – yán – yan – /jɛn˧˥/ – cliff; rock
-峽 | 峡 – xiá – xia – /ɕjɑ˧˥/ – gorge; canyon
-峰 | 峰 – fēng – feng – /fɤŋ˥/ – peak; summit
-崎 | 崎 – qí – qi – /tɕʰi˧˥/ – rugged; precipitous
-崩 | 崩 – bēng – beng – /pəŋ˥/ – collapse; crumble
-帳 | 帐 – zhàng – zhang – /tʂaŋ˥˩/ – tent; account (traditional)
-幔 | 幔 – màn – man – /man˥˩/ – curtain; canopy
-幣 | 币 – bì – bi – /pi˥˩/ – currency; token
-廓 | 廓 – kuò – kuo – /kʰwɔ˥˩/ – wide open; city wall (archaic)
-弧 – hú – hu – /xu˧˥/ – arc; bow (curve)
-彗 | 彗 – huì – hui – /xweɪ˥˩/ – broom; comet (literary)
-彬 | 彬 – bīn – bin – /pin˧˥/ – refined; cultured
-彷 | 彷 – fǎng – fang – /faŋ˨˩˦/ – resemble; as if
-志 | 志 – zhì – zhi – /tʂɻ̩˥˩/ – aspiration; will
-忍 | 忍 – rěn – ren – /ʐən˨˩˦/ – endure; tolerate
-恩 | 恩 – ēn – en – /ən˥/ – kindness; grace
-恆 | 恒 – héng – heng – /xəŋ˧˥/ – constant; perpetual
-恥 | 耻 – chǐ – chi – /tʂʰɻ̩˨˩˦/ – shame; disgrace
-悼 | 悼 – dào – dao – /tau˥˩/ – mourn; lament
+912. 将 – jiāng – jiang – /tɕjɑŋ˥/ – will; shall; lead (traditional)
+913. 尹 – yǐn – yin – /in˨˩˦/ – govern; surname
+914. 屏 – píng – ping – /pʰiŋ˧˥/ – screen; repel
+915. 屯 – tún – tun – /tʰun˧˥/ – station troops; store
+916. 岑 – cén – cen – /tsʰən˧˥/ – name; hill (literary)
+917. 岔 – chà – cha – /tʂʰa˥˩/ – fork; branch (of road)
+918. 岩 – yán – yan – /jɛn˧˥/ – cliff; rock
+919. 峡 – xiá – xia – /ɕjɑ˧˥/ – gorge; canyon
+920. 峰 – fēng – feng – /fɤŋ˥/ – peak; summit
+921. 崎 – qí – qi – /tɕʰi˧˥/ – rugged; precipitous
+922. 崩 – bēng – beng – /pəŋ˥/ – collapse; crumble
+923. 帐 – zhàng – zhang – /tʂaŋ˥˩/ – tent; account (traditional)
+924. 幔 – màn – man – /man˥˩/ – curtain; canopy
+925. 币 – bì – bi – /pi˥˩/ – currency; token
+926. 廓 – kuò – kuo – /kʰwɔ˥˩/ – wide open; city wall (archaic)
+927. 弧 – hú – hu – /xu˧˥/ – arc; bow (curve)
+928. 彗 – huì – hui – /xweɪ˥˩/ – broom; comet (literary)
+929. 彬 – bīn – bin – /pin˧˥/ – refined; cultured
+930. 彷 – fǎng – fang – /faŋ˨˩˦/ – resemble; as if
+931. 志 – zhì – zhi – /tʂɻ̩˥˩/ – aspiration; will
+932. 忍 – rěn – ren – /ʐən˨˩˦/ – endure; tolerate
+933. 恩 – ēn – en – /ən˥/ – kindness; grace
+934. 恒 – héng – heng – /xəŋ˧˥/ – constant; perpetual
+935. 耻 – chǐ – chi – /tʂʰɻ̩˨˩˦/ – shame; disgrace
+936. 悼 – dào – dao – /tau˥˩/ – mourn; lament
